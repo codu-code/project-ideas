@@ -26,7 +26,8 @@ required to complete them.
 
 | ID | Project Idea Profile                                                                                                                                                |
 | :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  1   | [HTML boilerplate generator](./projects/1.md).                                  |
+|  1   | [HTML boilerplate generator](./projects/1.md)   |
+|  2   | [URL shortener generator](./projects/2.md)      |
 
 ## Contribution
 
