@@ -28,6 +28,7 @@ required to complete them.
 | :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  1   | [HTML boilerplate generator](./projects/1.md)   |
 |  2   | [URL shortener generator](./projects/2.md)      |
+|  3   | [React UI generator](./projects/3.md)           |
 
 ## Contribution
 
